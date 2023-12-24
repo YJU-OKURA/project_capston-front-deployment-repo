@@ -1,1 +1,1 @@
-# project_capston-優シーツ-deployment-repo
+# project_capston-優シート-deployment-repo
